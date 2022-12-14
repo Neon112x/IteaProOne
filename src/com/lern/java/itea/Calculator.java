@@ -3,7 +3,7 @@ package com.lern.java.itea;
 import java.util.Scanner;
 
 public class Calculator {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // гілка STG
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter three number: ");
         int one = scanner.nextInt();
